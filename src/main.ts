@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import 'normalize.css';
+import 'tachyons';
+import 'gsap';
 
 Vue.config.productionTip = false;
 
